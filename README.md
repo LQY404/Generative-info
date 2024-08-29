@@ -19,6 +19,8 @@ This is a repository about Generative technical, mianly includes papers and proj
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| CVPR2022 | [Diffusionclip: Text-guided diffusion models for robust image manipulation](https://arxiv.org/abs/2110.02711) | [code](https://github.com/gwang-kim/DiffusionCLIP) |  Image/Video Edit |
+| CVPR2022 | [Blended Diffusion for Text-driven Editing of Natural Images](https://arxiv.org/abs/2111.14818) | [code](https://github.com/omriav/blended-diffusion) |  Image/Video Edit |
 | arxiv24.08 | [ControlNeXt: Powerful and Efficient Control for Image and Video Generation](https://arxiv.org/abs/2408.06070) | [code](https://github.com/dvlab-research/ControlNeXt) |  Image/Video Edit |
 | arxiv24.06 | [UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation](https://arxiv.org/abs/2406.01188) | [code](https://github.com/ali-vilab/UniAnimate) |  Image/Video Edit |
 | ICLR2024 | [PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models](https://arxiv.org/abs/2401.05252) | [code](https://github.com/PixArt-alpha/PixArt-alpha) |  Image/Video Edit |
