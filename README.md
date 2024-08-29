@@ -19,6 +19,17 @@ This is a repository about Generative technical, mianly includes papers and proj
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| arxiv24.06 | [UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation](https://arxiv.org/abs/2406.01188) | [code](https://github.com/ali-vilab/UniAnimate) |  Image/Video Edit |
+| ICLR2024 | [PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models](https://arxiv.org/abs/2401.05252) | [code](https://github.com/PixArt-alpha/PixArt-alpha) |  Image/Video Edit |
+| CVPR2024 | [DreamVideo: Composing Your Dream Videos with Customized Subject and Motion](https://arxiv.org/abs/2312.04433) | [code](https://dreamvideo-t2v.github.io/) |  Image/Video Edit |
+| arxiv23.06 | [VideoComposer: Compositional Video Synthesis with Motion Controllability](https://arxiv.org/abs/2306.02018) | [code](https://github.com/ali-vilab/videocomposer) |  Image/Video Edit |
+| Siggraph2023 | [Zero-shot Image-to-Image Translation](https://arxiv.org/abs/2302.03027) | [code](https://github.com/pix2pixzero/pix2pix-zero) |  Image/Video Edit |
+| CVPR2023 workshop | [Universal Guidance for Diffusion Models](https://arxiv.org/abs/2302.07121) | [code](https://github.com/arpitbansal297/Universal-Guided-Diffusion) |  Image/Video Edit |
+| CVPR2023 | [MaskSketch: Unpaired Structure-guided Masked Image Generation](https://arxiv.org/abs/2302.05496) | [code](https://github.com/google-research/masksketch) |  Image/Video Edit |
+| arxiv23.02 | [Adding Conditional Control to Text-to-Image Diffusion Models](https://arxiv.org/abs/2302.05543) | [code](https://github.com/Luis-kleinfeld/ControlNet) |  Image/Video Edit |
+| CVPR2023 | [InstructPix2Pix: Learning to Follow Image Editing Instructions](https://arxiv.org/abs/2211.09800) | [code](https://github.com/timothybrooks/instruct-pix2pix) |  Image/Video Edit |
+| Google | [Prompt-to-Prompt Image Editing with Cross Attention Control](https://arxiv.org/abs/2208.01626) | [code](https://github.com/google/prompt-to-prompt) |  Image/Video Edit |
+| CVPR2023 | [Diffusion Models Are Real-Time Game Engines](https://arxiv.org/abs/2408.14837) | [code](https://github.com/lucidrains/gamengen-pytorch) | Image/Video Edit |
 | Google-GameNGen | [Diffusion Models Are Real-Time Game Engines](https://arxiv.org/abs/2408.14837) | [code](https://github.com/lucidrains/gamengen-pytorch) | Video Engine |
 | zhipuAI-CogVideoX | [CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer](https://arxiv.org/abs/2408.06072) | [code](https://github.com/THUDM/CogVideo) | Text2Image/Video |
 | ICLR2024 | [PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis](https://arxiv.org/abs/2310.00426) | [code](https://pixart-alpha.github.io/) | Text2Image/Video |
