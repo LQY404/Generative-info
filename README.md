@@ -19,6 +19,7 @@ This is a repository about Generative technical, mianly includes papers and proj
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| arxiv24.08 | [Show-o: One Single Transformer to Unify Multimodal Understanding and Generation](https://arxiv.org/abs/2408.12528) | [code](https://github.com/showlab/show-o) | Image/Video Edit & Text2Image/Video |
 | CVPR2022 | [Diffusionclip: Text-guided diffusion models for robust image manipulation](https://arxiv.org/abs/2110.02711) | [code](https://github.com/gwang-kim/DiffusionCLIP) |  Image/Video Edit |
 | CVPR2022 | [Blended Diffusion for Text-driven Editing of Natural Images](https://arxiv.org/abs/2111.14818) | [code](https://github.com/omriav/blended-diffusion) |  Image/Video Edit |
 | arxiv24.08 | [ControlNeXt: Powerful and Efficient Control for Image and Video Generation](https://arxiv.org/abs/2408.06070) | [code](https://github.com/dvlab-research/ControlNeXt) |  Image/Video Edit |
@@ -34,6 +35,7 @@ This is a repository about Generative technical, mianly includes papers and proj
 | Google | [Prompt-to-Prompt Image Editing with Cross Attention Control](https://arxiv.org/abs/2208.01626) | [code](https://github.com/google/prompt-to-prompt) |  Image/Video Edit |
 | CVPR2023 | [Diffusion Models Are Real-Time Game Engines](https://arxiv.org/abs/2408.14837) | [code](https://github.com/lucidrains/gamengen-pytorch) | Image/Video Edit |
 | Google-GameNGen | [Diffusion Models Are Real-Time Game Engines](https://arxiv.org/abs/2408.14837) | [code](https://github.com/lucidrains/gamengen-pytorch) | Video Engine |
+| NeurIPS2024 | [RAPHAEL: Text-to-Image Generation via Large Mixture of Diffusion Paths](https://arxiv.org/abs/2305.18295) | [code](https://raphael-painter.github.io/) | Text2Image/Video |
 | zhipuAI-CogVideoX | [CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer](https://arxiv.org/abs/2408.06072) | [code](https://github.com/THUDM/CogVideo) | Text2Image/Video |
 | ICLR2024 | [PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis](https://arxiv.org/abs/2310.00426) | [code](https://pixart-alpha.github.io/) | Text2Image/Video |
 | Stability-AI-SDXL | [SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis](https://arxiv.org/abs/2307.01952) | [code](https://github.com/Stability-AI/generative-models) | Text2Image/Video |
