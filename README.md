@@ -19,6 +19,7 @@ This is a repository about Generative technical, mianly includes papers and proj
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| Google-GameNGen | [Diffusion Models Are Real-Time Game Engines](https://arxiv.org/abs/2408.14837) | [code](https://github.com/lucidrains/gamengen-pytorch) | Video Engine |
 | zhipuAI-CogVideoX | [CogVideoX: Text-to-Video Diffusion Models with An Expert Transformer](https://arxiv.org/abs/2408.06072) | [code](https://github.com/THUDM/CogVideo) | Text2Image/Video |
 | ICLR2024 | [PixArt-α: Fast Training of Diffusion Transformer for Photorealistic Text-to-Image Synthesis](https://arxiv.org/abs/2310.00426) | [code](https://pixart-alpha.github.io/) | Text2Image/Video |
 | Stability-AI-SDXL | [SDXL: Improving Latent Diffusion Models for High-Resolution Image Synthesis](https://arxiv.org/abs/2307.01952) | [code](https://github.com/Stability-AI/generative-models) | Text2Image/Video |
