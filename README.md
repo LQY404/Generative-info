@@ -30,6 +30,7 @@ This is a repository about Generative technical, mianly includes papers and proj
 | NeurIPS2021 | [Cogview: Mastering text-to-image generation via transformers](https://arxiv.org/abs/2105.13290) | [code](https://github.com/THUDM/CogView) | Text2Image/Video |
 | OpenAI-DALL-E | [Zero-Shot Text-to-Image Generation](https://arxiv.org/abs/2102.12092) | [code](https://github.com/openai/DALL-E) | Text2Image/Video |
 | CVPR2022 | [High-Resolution Image Synthesis with Latent Diffusion Models](https://openaccess.thecvf.com/content/CVPR2022/papers/Rombach_High-Resolution_Image_Synthesis_With_Latent_Diffusion_Models_CVPR_2022_paper.pdf) | [code](https://github.com/CompVis/latent-diffusion) | High Resolution |
+| ACMMM2024 | [PEAN: A Diffusion-Based Prior-Enhanced Attention Network for Scene Text Image Super-Resolution](https://arxiv.org/abs/2311.17955) | [code](https://github.com/jdfxzzy/PEAN) | High Resolution |
 | OpenAI | [Diffusion Models Beat GANs on Image Synthesis](https://arxiv.org/abs/2105.05233) | [code](https://github.com/openai/guided-diffusion) | Basic |
 | NeurIPS2021 workshop | [Classifier-Free Diffusion Guidance](https://arxiv.org/abs/2207.12598) | None | Basic |
 | JMLR2022 | [Cascaded Diffusion Models for High Fidelity Image Generation](https://arxiv.org/pdf/2006.11239) | [code](https://cascaded-diffusion.github.io/n) | Basic |
