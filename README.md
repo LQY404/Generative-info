@@ -19,6 +19,7 @@ This is a repository about Generative technical, mianly includes papers and proj
 
 |   |   |   |   |
 | :------------: | :------------: | :------------: | :------------: |
+| arxiv24.08 | [ControlNeXt: Powerful and Efficient Control for Image and Video Generation](https://arxiv.org/abs/2408.06070) | [code](https://github.com/dvlab-research/ControlNeXt) |  Image/Video Edit |
 | arxiv24.06 | [UniAnimate: Taming Unified Video Diffusion Models for Consistent Human Image Animation](https://arxiv.org/abs/2406.01188) | [code](https://github.com/ali-vilab/UniAnimate) |  Image/Video Edit |
 | ICLR2024 | [PIXART-δ: Fast and Controllable Image Generation with Latent Consistency Models](https://arxiv.org/abs/2401.05252) | [code](https://github.com/PixArt-alpha/PixArt-alpha) |  Image/Video Edit |
 | CVPR2024 | [DreamVideo: Composing Your Dream Videos with Customized Subject and Motion](https://arxiv.org/abs/2312.04433) | [code](https://dreamvideo-t2v.github.io/) |  Image/Video Edit |
